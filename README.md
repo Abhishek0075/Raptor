@@ -4,4 +4,6 @@ Have 2 folders
 * Raptor - Raptor files<br/>
    Sequential,Decision,Iteration problems
 * Python codes - Python codes of problems<br/>
-Sequential
+Sequential<br/>
+Decision<br/>
+Iteration
